@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/line.png</file>
+        <file>images/circle.png</file>
+        <file>images/curve.png</file>
+        <file>images/delete.png</file>
+        <file>images/ellipse.png</file>
+        <file>images/fill.png</file>
+        <file>images/move.png</file>
+        <file>images/polygon.png</file>
+        <file>images/rotate.png</file>
+        <file>images/zoom.png</file>
+        <file>images/edit.png</file>
+        <file>images/cut.png</file>
+    </qresource>
+</RCC>
